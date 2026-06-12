@@ -1,0 +1,5 @@
+-------------Reporte---------------
+Estudiante: Mario
+Nota: 95.5%
+Estudiante: Luis
+Nota: 88.0%
